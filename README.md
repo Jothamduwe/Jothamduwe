@@ -5,6 +5,7 @@
 - 📫 How to reach me instagram, X and facebook
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Gospel Rap
+-             : Laura too
 
 <!---
 Jothamduwe/Jothamduwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
